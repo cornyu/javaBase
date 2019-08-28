@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/javax/javaee-api-7.0.jar"/>
+	<classpathentry kind="lib" path="lib/jmx/jmxri-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/jmx/jmxtools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/json/fastjson-1.2.44.jar"/>
+	<classpathentry kind="lib" path="lib/json/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/spring/aop-utils-common-1.0.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/spring/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/spring/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="lib/spring/cglib-3.2.4.jar"/>
+	<classpathentry kind="lib" path="lib/spring/com.springsource.org.aopalliance-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/spring/org.objectweb.asm-3.3.1.v201105211655.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-aop-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-core-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/javassist/javassist-3.21.0-GA.jar"/>
+	<classpathentry kind="lib" path="lib/guava/guava-r09.jar"/>
+	<classpathentry kind="lib" path="lib/pdf/itext-2.0.6.jar"/>
+	<classpathentry kind="lib" path="lib/pdf/itext-rtf-2.1.7.jar"/>
+	<classpathentry kind="lib" path="lib/pdf/itextasian-1.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/pdf/itextpdf-5.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/swt/org.eclipse.swt-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/swt/swt-3.7-cocoa-macosx-x86_64.jar"/>
+	<classpathentry kind="lib" path="lib/http/org.apache.commons.httpclient-3.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient3.1/commons-codec.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient3.1/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
