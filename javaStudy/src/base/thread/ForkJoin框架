@@ -1,9 +1,0 @@
-Fork/Join框架是jdk7提供的一个用于并行执行任务的框架，是一个把大任务分割成若干个小任务，最终汇总每个小任务结果后得到大任务结果的框架。
-
-Fork/Join框架提供了以下两个类：
-1.ForkJoinTask:(分割任务)
-RecursiveAction :用于没有返回结果的任务
-RecursiveTask:   用于有返回结果的任务
-
-2.ForkJoinPool：（执行任务）
- ForkJoinTask 需要通过ForkJoinPool来执行
