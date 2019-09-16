@@ -21,9 +21,9 @@ public class ReadXml {
 		//File fxmlFile=new File("../base/xml/staff.xml");
 		
 		File fxmlFile=new File("src/staff.xml");
-		InputStream ipsInputStream=ReadXml.class.getResourceAsStream("staff.xml");
+		InputStream ipsInputStream= ReadXml.class.getResourceAsStream("staff.xml");
 		
-		DocumentBuilderFactory dbFactory=DocumentBuilderFactory.newInstance();
+		DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 		DocumentBuilder dBuilder=dbFactory.newDocumentBuilder();
 		
 		Document document=dBuilder.parse(fxmlFile);

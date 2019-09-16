@@ -1,8 +1,6 @@
 package com.ff.algorithm.leetcode;
 
-import org.w3c.dom.ls.LSException;
 
-import com.itextpdf.text.List;
 
 /**
  * @author cornyu
@@ -83,7 +81,7 @@ public class AddTwoNumbers {
 		}
 
 		System.out.println("prc");
-		printListNode(l1);
+		//printListNode(l1);
 
 		return dummyHead.next;
 	}

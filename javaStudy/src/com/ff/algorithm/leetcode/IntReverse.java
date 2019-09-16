@@ -1,4 +1,9 @@
 package com.ff.algorithm.leetcode;
+
+import java.util.Arrays;
+
+import javax.ejb.Init;
+
 /** 
 * @author cornyu 
 * @version 创建时间：2019年8月11日 上午11:25:43 
@@ -11,6 +16,12 @@ public class IntReverse {
 		IntReverse test = new IntReverse();
 		System.out.println(test.reverse(12345));
 		System.out.println(test.reverse(-3450));
+		
+		int[] test1 = new int[] {1,3,4,2,5,3,4};
+		Arrays.sort(test1);
+		for(int i:test1) {
+			System.out.println(i);
+		}
 		
 	}
 	

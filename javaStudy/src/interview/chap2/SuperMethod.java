@@ -15,8 +15,15 @@ class Super {
 
 class Sub extends Super {
 	
-	public Long getLenght() {
-		return new Long(5);
+	/**
+	 * 覆盖父类方法，不能改变返回值类型
+	 */
+//	public Long getLenght() {
+//		return new Long(5);
+//	}
+	
+	public Integer getLenght() {
+		return  5;
 	}
 
 }
