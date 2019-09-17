@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/lib/javax/javaee-api-7.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jmx/jmxri-1.2.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jmx/jmxtools-1.2.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/json/fastjson-1.2.44.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/json/gson-2.8.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/spring/aop-utils-common-1.0.0.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/spring/aopalliance-1.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/spring/cglib-2.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/spring/cglib-3.2.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/spring/com.springsource.org.aopalliance-1.0.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/spring/org.objectweb.asm-3.3.1.v201105211655.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/spring/spring-aop-4.1.0.RELEASE.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/spring/spring-core-4.2.2.RELEASE.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/javassist/javassist-3.21.0-GA.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/guava/guava-r09.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/pdf/itext-2.0.6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/pdf/itext-rtf-2.1.7.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/pdf/itextasian-1.5.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/pdf/itextpdf-5.1.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/swt/org.eclipse.swt-3.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/swt/swt-3.7-cocoa-macosx-x86_64.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/http/org.apache.commons.httpclient-3.1.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/httpclient3.1/commons-codec.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/httpclient3.1/commons-logging-1.0.4.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="JavaSE-1.8" jdkType="JavaSDK" />
+    <orderEntry type="module-library">
+      <library name="javaee-api-7.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/javax/javaee-api-7.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jmxri-1.2.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jmx/jmxri-1.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jmxtools-1.2.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jmx/jmxtools-1.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fastjson-1.2.44.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/json/fastjson-1.2.44.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="gson-2.8.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/json/gson-2.8.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aop-utils-common-1.0.0.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/spring/aop-utils-common-1.0.0.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aopalliance-1.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/spring/aopalliance-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="cglib-2.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/spring/cglib-2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="cglib-3.2.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/spring/cglib-3.2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.aopalliance-1.0.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/spring/com.springsource.org.aopalliance-1.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.objectweb.asm-3.3.1.v201105211655.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/spring/org.objectweb.asm-3.3.1.v201105211655.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-aop-4.1.0.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/spring/spring-aop-4.1.0.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-core-4.2.2.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/spring/spring-core-4.2.2.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javassist-3.21.0-GA.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/javassist/javassist-3.21.0-GA.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="guava-r09.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/guava/guava-r09.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="itext-2.0.6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/pdf/itext-2.0.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="itext-rtf-2.1.7.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/pdf/itext-rtf-2.1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="itextasian-1.5.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/pdf/itextasian-1.5.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="itextpdf-5.1.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/pdf/itextpdf-5.1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.swt-3.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/swt/org.eclipse.swt-3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="swt-3.7-cocoa-macosx-x86_64.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/swt/swt-3.7-cocoa-macosx-x86_64.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.apache.commons.httpclient-3.1.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/http/org.apache.commons.httpclient-3.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-codec.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/httpclient3.1/commons-codec.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging-1.0.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/httpclient3.1/commons-logging-1.0.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
