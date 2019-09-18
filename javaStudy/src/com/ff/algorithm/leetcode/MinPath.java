@@ -21,6 +21,7 @@ public class MinPath {
 		int m = sc.nextInt();
 		int S = sc.nextInt();
 		int T = sc.nextInt();
+		
 		Graph g = new Graph(n + 1);
 		for (int i = 0; i < m; i++) {
 			int u = sc.nextInt(), v = sc.nextInt(), w = sc.nextInt();
@@ -49,10 +50,10 @@ public class MinPath {
 	            
 	            Arrays.fill(dis, Long.MAX_VALUE);
 	            
-	            boolean[] vis = new boolean[n];
+	            boolean[] vis = new boolean[n];//标记 节点是否被访问过
 	            dis[from] = 0;
 	            
-	            q.add(new long[] { 0, from });
+	            q.add(new long[] { 0, from });//将起点放入队列
 	            
 	            while (!q.isEmpty()) {
 	                int u = (int) q.poll()[1];
